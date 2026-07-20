@@ -16,107 +16,85 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Hi, I'm Venky 👋
 
-# Hi there, I'm Venky 👋
+**Business Intelligence Engineer 2 @ Amazon**
 
-I'm a **Business Intelligence Engineer** passionate about solving business problems through data, analytics, cloud technologies, and Artificial Intelligence.
+I build data products, decision systems, and scalable analytics that help businesses make better decisions.
 
-After completing 10+ years in technology, I've started a new chapter—learning AI Engineering and building in public.
-
-My goal is simple:
-
-> Learn. Build. Share. Repeat.
+My work sits at the intersection of Business Intelligence, Data Engineering, AWS, and AI, with a focus on solving complex business problems through data-driven engineering.
 
 ---
 
-## 🚀 What I'm currently learning
+## What I'm Working On
 
-- 🤖 AI Engineering
-- ☁️ Amazon Web Services (AWS)
-- 🧠 Large Language Models (LLMs)
-- 🔗 Retrieval-Augmented Generation (RAG)
-- 🤖 AI Agents
-- 🐍 Python
-- 📊 Data Engineering
-- 🏗️ System Design
+- Building scalable decision systems
+- Applying AI to business intelligence workflows
+- Expanding cloud-native data engineering skills on AWS
+- Developing engineering projects and technical articles
+- Growing toward Senior Business Intelligence Engineer (L6)
 
 ---
 
-## 📌 Current Focus
+## Areas of Focus
 
-I'm documenting my journey while building practical projects that solve real business problems in:
-
-- Operations
-- Supply Chain
-- Analytics
-- Automation
-- Artificial Intelligence
-
----
-
-## 📂 Featured Repositories
-
-### 🚀 AI Engineering Journey
-A public journal of everything I'm learning while transitioning into AI Engineering.
-
-➡️ *Coming soon*
+- 📊 Business Intelligence
+- 🧠 Decision Systems
+- 🏗 Data Products
+- ☁️ AWS Cloud
+- 🤖 AI-enabled Analytics
+- 📈 Analytics Engineering
+- 🚚 Supply Chain Analytics
+- 🛒 B2B Marketplace Analytics
 
 ---
 
-### ☁️ AWS Labs
-Hands-on AWS projects and experiments.
+## Engineering Philosophy
 
-➡️ *Coming soon*
+> **Technology is only valuable when it helps people make better decisions.**
 
----
+I believe the best engineering starts with understanding the business problem—not with choosing a technology.
 
-### 🤖 AI Projects
-Building practical AI applications using modern tools and frameworks.
-
-➡️ *Coming soon*
+Whether the solution involves Business Intelligence, Data Engineering, AWS, or AI, my goal is always to build mechanisms that scale, simplify decision-making, and create measurable business impact.
 
 ---
 
-## 🛠️ Tech Stack
+## Current Learning Journey
 
-**Languages**
+I'm continuously investing in:
 
-- Python
-- SQL
-
-**Cloud**
-
-- AWS
-
-**Tools**
-
-- Git
-- GitHub
-- VS Code
-- Docker
+- Advanced AWS services
+- AI for enterprise applications
+- Modern data engineering practices
+- System design
+- Business strategy through data
 
 ---
 
-## 🌱 My Philosophy
+## Featured Projects
 
-I believe that learning compounds when you:
+🚧 Coming soon
 
-- Learn consistently
-- Build real projects
-- Share your work publicly
-- Reflect on your progress
+Projects will demonstrate real-world approaches to:
+
+- Business Intelligence
+- Decision Systems
+- Data Products
+- Supply Chain Analytics
+- AI-powered business applications
+- Cloud-native engineering
 
 ---
 
-## 📫 Connect with me
+## Connect with me
 
-💼 LinkedIn
+🌐 Website: https://balaji4aws.github.io
 
-https://www.linkedin.com/in/balaji4aws/
+💼 LinkedIn: https://www.linkedin.com/in/balaji4aws
 
-📧 Email
+📧 Email: balaji4aws@gmail.com
 
-balaji4aws@gmail.com
+💻 GitHub: https://github.com/balaji4aws
 
 ---
 
